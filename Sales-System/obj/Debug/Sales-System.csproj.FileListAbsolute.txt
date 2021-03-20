@@ -1,0 +1,7 @@
+C:\Users\firsp\source\repos\Sales-System\Sales-System\bin\Debug\Sales-System.exe.config
+C:\Users\firsp\source\repos\Sales-System\Sales-System\bin\Debug\Sales-System.exe
+C:\Users\firsp\source\repos\Sales-System\Sales-System\bin\Debug\Sales-System.pdb
+C:\Users\firsp\source\repos\Sales-System\Sales-System\obj\Debug\Sales-System.csprojAssemblyReference.cache
+C:\Users\firsp\source\repos\Sales-System\Sales-System\obj\Debug\Sales-System.csproj.CoreCompileInputs.cache
+C:\Users\firsp\source\repos\Sales-System\Sales-System\obj\Debug\Sales-System.exe
+C:\Users\firsp\source\repos\Sales-System\Sales-System\obj\Debug\Sales-System.pdb
